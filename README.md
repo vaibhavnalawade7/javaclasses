@@ -4,7 +4,7 @@ Welcome to Java Classes! This is a platform where you can view recorded live ses
 
 ## Live Demo
 
-Check out our [live demo](http://javaclasses.rf.gd/) to see the features in action.
+Check out our [live demo](http://javaclasses.rf.gd/home.php) to see the features in action.
 
 ## Features
 
